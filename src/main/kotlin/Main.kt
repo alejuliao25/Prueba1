@@ -7,6 +7,7 @@ fun main() {
 //    val outputFile: File = File ("C:\\Users\\camila juliao")
 //    encodeToBinary(inputFile, outputFile)
 println("hola camipluna como estas")
+    println("te amo mucho")
 }
 
 @Throws(IOException::class)
