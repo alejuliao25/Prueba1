@@ -6,7 +6,7 @@ fun main() {
 //    val inputFile: File= File ("C:\\Users\\camila juliao\\IdeaProjects\\Test2\\src\\main\\kotlin\\scratch.xml")
 //    val outputFile: File = File ("C:\\Users\\camila juliao")
 //    encodeToBinary(inputFile, outputFile)
-println("hola camipluna como estas")
+println("hola")
 }
 
 @Throws(IOException::class)
