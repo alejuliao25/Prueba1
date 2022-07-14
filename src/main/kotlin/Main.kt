@@ -8,7 +8,7 @@ fun main() {
 //    encodeToBinary(inputFile, outputFile)
 println("hola camipluna como estas")
     println("te amo mucho")
-println("hola")
+    println("hola")
     println("te amo mas")
 }
 
