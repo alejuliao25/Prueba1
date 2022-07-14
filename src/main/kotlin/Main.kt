@@ -3,10 +3,10 @@ import java.util.*
 import chikoplum.*
 
 fun main() {
-    val inputFile: File= File ("C:\\Users\\camila juliao\\IdeaProjects\\Test2\\src\\main\\kotlin\\scratch.xml")
-    val outputFile: File = File ("C:\\Users\\camila juliao")
-    encodeToBinary(inputFile, outputFile)
-
+//    val inputFile: File= File ("C:\\Users\\camila juliao\\IdeaProjects\\Test2\\src\\main\\kotlin\\scratch.xml")
+//    val outputFile: File = File ("C:\\Users\\camila juliao")
+//    encodeToBinary(inputFile, outputFile)
+println("hola camipluna")
 }
 
 @Throws(IOException::class)
