@@ -10,6 +10,7 @@ println("hola camipluna como estas")
     println("te amo mucho")
     println("hola")
     println("te amo mas")
+    println("staceando cosas que es el area de preparacion")
 }
 
 @Throws(IOException::class)
